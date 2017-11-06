@@ -43,6 +43,10 @@
      12.- rm(dir) 移除文件或文件夹
      13.- git rm ***.txt 从当前HEAD版本库当中删除 文件 需要git commit 提交
      
+     远程使用github管理自己的文件：（开会员之前 不要共享公司的文件）
+     1.添加自己的设备SSH支持，设置为自己的email账户，获取SSH Key 添加在github
+     2.- git remote add origin git@github.com:wwf326813059/、***.git 拿到github的SSH地址 设置git
+     3.
      
      
      
