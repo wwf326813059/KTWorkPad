@@ -23,6 +23,7 @@
     
 #pragma mark -----Git操作
     /*
+     更新
      git config --global user.email "邮箱地址"
      git config --global user.name "名字"
      
@@ -87,6 +88,8 @@
      7.git push origin name 推送指定标签
      8.git push origin --tags 推送所有标签
      9.git push origin :refs/tags/name 删除远程已推送标签（首先从本地删除）
+     
+     
      
 
      */
